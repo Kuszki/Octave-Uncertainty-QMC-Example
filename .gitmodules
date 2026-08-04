@@ -1,0 +1,3 @@
+[submodule "fwtutils"]
+	path = fwtutils
+	url = https://github.com/Kuszki/Octave-FWT-Utils
